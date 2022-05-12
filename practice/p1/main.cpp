@@ -8,10 +8,14 @@
      double r, t;
      United V (10, 5.5, 'V');
      United W (20, 8.5, 'U');
+     char n,m;
      r = 3.2;
      t = 2.7;
      x = 6;
      y = 9;
+     n = 'J';
+     m = 'L';
+     std::cout << minE<char> (n, m) << std::endl;
      std::cout << minE<int> (x, y) << std::endl;
      std::cout << minE<double> (r, t) << std::endl;
      if (minE<United> (V, W)==V)

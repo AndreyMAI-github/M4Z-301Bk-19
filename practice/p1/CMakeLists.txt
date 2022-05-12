@@ -10,6 +10,6 @@ set(SRC
 	"./src/United.cpp"
 )
 
-add_executable(p2 ${SRC})
+add_executable(p1 ${SRC})
 
 
