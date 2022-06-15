@@ -19,16 +19,6 @@ bool United::operator > (const United &a) // United b
 	else { return false; }
 }
 
-bool United::operator == (const United &a) // United b
-{
-	int count = 0;
-	if (this->fieldInt == a.fieldInt) {++count;}
-	if (this->fieldDouble == a.fieldDouble) {++count;}
-	if (this->fieldChar == a.fieldChar) {++count;}
-	if (count == 3) { return true; }
-	else { return false; }
-}
-
 United::~United() {}
 int main()
 {
