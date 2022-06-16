@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/t1.dir/main.cpp.o CMakeFiles/t1.dir/United.cpp.o -o t1 
