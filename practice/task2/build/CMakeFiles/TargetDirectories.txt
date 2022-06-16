@@ -1,0 +1,3 @@
+/home/yz/task2/build/CMakeFiles/t2.dir
+/home/yz/task2/build/CMakeFiles/edit_cache.dir
+/home/yz/task2/build/CMakeFiles/rebuild_cache.dir
